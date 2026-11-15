@@ -1,0 +1,6 @@
+@SchoolERPAIChatbot.API_HostAddress = http://localhost:5241
+
+GET {{SchoolERPAIChatbot.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
